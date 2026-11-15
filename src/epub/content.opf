@@ -52,7 +52,7 @@
 		<dc:language>en-US</dc:language>
 		<dc:source>https://en.wikisource.org/wiki/Contending_Forces</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/100589508</dc:source>
-		<meta property="schema:wordCount">83876</meta>
+		<meta property="schema:wordCount">83877</meta>
 		<meta property="schema:educationalLevel">69.92</meta>
 		<link href="https://en.wikipedia.org/wiki/Contending_Forces" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
